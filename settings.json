@@ -1,0 +1,39 @@
+{
+  "workbench.colorTheme": "Visual Studio Dark",
+  "git.enableSmartCommit": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  "files.trimTrailingWhitespace": true,
+  "editor.bracketPairColorization.enabled": true,
+  "notebook.markup.fontSize": 15,
+  "liveServer.settings.donotVerifyTags": true,
+  "glsllint.glslangValidatorPath": "/usr/local/myapp/glslang/bin/glslangValidator",
+  "window.titleBarStyle": "custom",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.autoGuessEncoding": true,
+  "editor.glyphMargin": false,
+  "editor.suggest.showDeprecated": false,
+  "editor.suggest.insertMode": "replace",
+  "window.zoomLevel": 1,
+  "terminal.integrated.fontFamily": "HackGenNerd, 'Noto Color Emoji'",
+  "editor.inlineSuggest.enabled": true,
+  "path-intellisense.absolutePathToWorkspace": false,
+  "editor.fontSize": 15.5,
+  "editor.lineHeight": 19,
+  "editor.formatOnSave": true,
+  "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "j"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    }
+  ],
+  "errorLens.excludeBySource": [
+    "cSpell"
+  ],
+}
